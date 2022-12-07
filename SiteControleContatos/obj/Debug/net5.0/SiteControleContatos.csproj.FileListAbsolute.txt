@@ -395,3 +395,9 @@ C:\Users\Leonardo Meger\source\repos\SiteControleContatos\SiteControleContatos\o
 C:\Users\Leonardo Meger\source\repos\SiteControleContatos\SiteControleContatos\obj\Debug\net5.0\SiteControleContatos.genruntimeconfig.cache
 C:\Users\Leonardo Meger\source\repos\SiteControleContatos\SiteControleContatos\obj\Debug\net5.0\ref\SiteControleContatos.dll
 C:\Users\Leonardo Meger\source\repos\SiteControleContatos\SiteControleContatos\obj\Debug\net5.0\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\Leonardo Meger\source\repos\SiteControleContatos\SiteControleContatos\obj\Debug\net5.0\Razor\Views\Usuario\Criar.cshtml.g.cs
+C:\Users\Leonardo Meger\source\repos\SiteControleContatos\SiteControleContatos\obj\Debug\net5.0\Razor\Views\Usuario\ApagarConfirmacao.cshtml.g.cs
+C:\Users\Leonardo Meger\source\repos\SiteControleContatos\SiteControleContatos\obj\Debug\net5.0\Razor\Views\Usuario\Editar.cshtml.g.cs
+C:\Users\Leonardo Meger\source\repos\SiteControleContatos\SiteControleContatos\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\Leonardo Meger\source\repos\SiteControleContatos\SiteControleContatos\obj\Debug\net5.0\Razor\Views\Shared\_LayoutDescolado.cshtml.g.cs
+C:\Users\Leonardo Meger\source\repos\SiteControleContatos\SiteControleContatos\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
