@@ -1,4 +1,5 @@
 ﻿using SiteControleContatos.Enums;
+using SiteControleContatos.Helper;
 using System;
 using System.ComponentModel.DataAnnotations;
 
@@ -29,7 +30,19 @@ namespace SiteControleContatos.Models
 
         public bool SenhaValida(string senha)
         {
-            return Senha == senha;
+            return Senha == senha.GerarHash();
+        }
+
+        public void SetSenhaHash()
+        {
+            Senha = Senha.GerarHash();
+        }
+
+        public string GerarNovaSenha()
+        {
+            string novasSenha = Guid.NewGuid().ToString().Substring(0, 8);
+            Senha = novasSenha.GerarHash();
+            return novasSenha;
         }
     }
 }
